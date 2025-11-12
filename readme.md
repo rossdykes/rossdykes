@@ -51,7 +51,3 @@ I love scripting, solving problems, and creating systems that actually *work* �
 
 I build because I **enjoy it** scripting on FiveM, experimenting with new frameworks, and seeing something I made actually come to life.  
 For me, development isn’t a job  it’s something that keeps me curious, creative, and always learning.
-
----
-
-⭐ **“Build what you love — learn as you go.”**
