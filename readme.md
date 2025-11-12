@@ -1,13 +1,13 @@
 # 👋 Hey there
 
-I’m Ross a **part-time full stack developer** who enjoys building cool stuff for fun — especially around **web development** and **FiveM**.
+I’m a **part-time full stack developer** who enjoys building cool stuff for fun — especially around **FiveM** and **web development**.  
 I love scripting, solving problems, and creating systems that actually *work* — whether that’s a new in-game feature or a full **custom CRM** that ties everything together.
 
 ---
 
 ## 💻 What I Do
 
-🧠 I like turning ideas into working systems — mostly small projects that grow into something bigger.  
+🧠 I like turning ideas into working systems  mostly small projects that grow into something bigger.  
 🎮 I spend a lot of time scripting on **FiveM**, working with **Lua** and **QBOX/FiveM APIs** to create unique RP features.  
 🧩 On the web side, I build **custom CRM systems**, dashboards, and tools that make things more organized and easier to manage.
 
@@ -28,6 +28,7 @@ I love scripting, solving problems, and creating systems that actually *work* �
 ### ⚙️ Frameworks & APIs  
 ![FiveM](https://img.shields.io/badge/FiveM-FF5500?style=for-the-badge&logo=fivem&logoColor=white)
 ![QBOX](https://img.shields.io/badge/QBOX-1A73E8?style=for-the-badge&logo=lua&logoColor=white)
+![QBCore](https://img.shields.io/badge/QBCore-7289DA?style=for-the-badge&logo=lua&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 ---
@@ -48,8 +49,8 @@ I love scripting, solving problems, and creating systems that actually *work* �
 
 ## ❤️ What Drives Me
 
-I build because I **enjoy it** — scripting on FiveM, experimenting with new frameworks, and seeing something I made actually come to life.  
-For me, development isn’t a job — it’s something that keeps me curious, creative, and always learning.
+I build because I **enjoy it** scripting on FiveM, experimenting with new frameworks, and seeing something I made actually come to life.  
+For me, development isn’t a job  it’s something that keeps me curious, creative, and always learning.
 
 ---
 
